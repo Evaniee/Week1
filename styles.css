@@ -1,0 +1,21 @@
+* { /* Wildcard selector. Selects everything */
+    margin: 0px;
+}
+
+p {
+   background-color: #ffccff;
+   color: #ccccff;
+}
+
+.red-text {
+   color: red;
+   background-color: rgba(255, 255, 255, 255);
+}
+
+h1.red-text {
+    color: #bb0000
+}
+
+#green-text {
+    color: #00ff00;
+}
